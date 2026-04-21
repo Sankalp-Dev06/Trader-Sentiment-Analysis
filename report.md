@@ -1,10 +1,5 @@
 
----
-
-# Summary
-
-```markdown
-# 📊 Trader Performance vs Market Sentiment
+# 📊 Trader Performance vs Market Sentiment - Analysis Summary
 
 ## Objective
 To analyze how market sentiment (Fear/Greed) influences trader behavior and profitability.
@@ -50,3 +45,7 @@ The analysis demonstrates that sentiment-driven behavioral patterns significantl
 - Limited dataset (~6 trading days)
 - Small sample size (~75 observations)
 - Results are indicative and not generalizable
+
+---
+
+**Report Generated:** April 21, 2026
