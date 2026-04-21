@@ -1,17 +1,17 @@
-# 📊 Trader Performance vs Market Sentiment Analysis
+#  Trader Performance vs Market Sentiment Analysis
 
-## 📌 Objective
+##  Objective
 Analyze how market sentiment (Fear/Greed) impacts trader behavior and performance using Hyperliquid trading data.
 
 ---
 
-## 📂 Dataset
+##  Dataset
 1. Bitcoin Market Sentiment (Fear/Greed Index) : fear_greed_index.csv
 2. Historical Trader Data (Hyperliquid) : historical_data.csv
 
 ---
 
-## ⚙️ Methodology
+##  Methodology
 
 ### 1. Data Preparation
 - Cleaned and standardized datasets
@@ -37,7 +37,7 @@ Created daily trader-level metrics:
 
 ---
 
-## 📊 Key Insights
+##  Key Insights
 
 - Traders perform best during **Fear phases**, with higher PnL and win rate
 - Trading activity increases significantly during Fear
@@ -47,7 +47,7 @@ Created daily trader-level metrics:
 
 ---
 
-## 🚀 Strategy Recommendations
+##  Strategy Recommendations
 
 - Increase activity during Fear phases to exploit volatility
 - Reduce risk exposure during Greed phases
@@ -56,7 +56,7 @@ Created daily trader-level metrics:
 
 ---
 
-## ⚠️ Limitations
+##  Limitations
 
 - Dataset contains only ~6 trading days
 - Results are indicative, not conclusive
@@ -64,7 +64,7 @@ Created daily trader-level metrics:
 
 ---
 
-## ▶️ How to Run
+##  How to Run
 
 1. Clone the repo:
    ```bash
